@@ -1,0 +1,5 @@
+Capas oficiais incluídas neste pacote:
+- golden-room-capa.png: GOLDEN ROOM, edição tradicional.
+- velvet-capa.png: VELVET, livro 2.
+- golden-room-collector.jpg: GOLDEN ROOM, The Collector's Edition.
+As imagens foram copiadas sem edição. BLAK DOOR permanece com capa a revelar.

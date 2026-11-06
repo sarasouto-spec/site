@@ -1,0 +1,29 @@
+# Site oficial — Sara Souto
+
+## Estrutura
+- `index.html`: página inicial
+- `livros/golden-room.html`: página do livro 1
+- `livros/velvet.html`: página do livro 2
+- `livros/blak-door.html`: página do livro 3
+- `livros/golden-room-premium.html`: página exclusiva da edição premium
+- `style.css` e `script.js`: identidade visual e interações
+
+## Capas e fotografias oficiais
+As capas não foram recriadas nem alteradas. Os espaços reservados devem receber os arquivos originais fornecidos pela autora:
+- `assets/golden-room-capa.jpg` — capa oficial da edição tradicional
+- `assets/golden-room-premium.jpg` — fotografia oficial da edição premium
+- `assets/velvet-capa.jpg` — capa oficial de VELVET (quando fornecida)
+- `assets/blak-door-capa.jpg` — capa oficial de BLAK DOOR (quando fornecida)
+
+Para inserir uma imagem, coloque o arquivo com o nome indicado na pasta `assets`. A página inicial já reconhece automaticamente `golden-room-capa.jpg`. Nas páginas internas, substitua a área tracejada pela imagem original sem editar sua composição.
+
+## Publicar no GitHub Pages
+1. Extraia o ZIP.
+2. Abra o repositório `https://github.com/sarasouto-spec/in`.
+3. Use **Add file > Upload files** e envie os arquivos e pastas extraídos para a raiz do repositório.
+4. Confirme em **Commit changes**.
+5. Em **Settings > Pages**, confira se a publicação está configurada a partir da branch `main` e da pasta `/ (root)`.
+6. Aguarde a publicação e abra `https://sarasouto-spec.github.io/in/`.
+
+## Importante
+Os campos sem informação oficial foram mantidos como espaços reservados. Preços, datas, acabamentos, brindes, sinopses completas e detalhes de personagens não foram inventados.
